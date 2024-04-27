@@ -1,0 +1,18 @@
+/* 
+@font-face {
+    font-family: nija;
+    src: url('assets/njnaruto.ttf');
+}
+
+#title{
+    font-family: nija;
+} */
+
+.heading img{
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
